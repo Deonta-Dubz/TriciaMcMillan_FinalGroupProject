@@ -1,5 +1,5 @@
 #main.py
-# Name: Brianna Jarrell, Leonie Troeger, Thomas Gilligan
+# Name: Brianna Jarrell, Leonie Troeger, Thomas Gilligan, Deonta Williams
 # email: jarrelbc@mail.uc.edu, troegele@mail.uc.edu, gilligtp@mail.uc.edu
 # Assignment Number: Final Project
 # Due Date: 4-23-24

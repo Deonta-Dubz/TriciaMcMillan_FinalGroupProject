@@ -16,7 +16,7 @@ from jsonUtilitiesPackage.data import *
 if __name__ == "__main__":
     # Extract the movie name for Tricia McMillian
     MovieEncryption.decrypt_message_from_file(file_path, 'Tricia McMillan')
-    
+
     # Print the numbers to decrypt the location for the group picture
     Number_Words()
      
@@ -24,6 +24,7 @@ if __name__ == "__main__":
     txt_file = "..\\dataPackage\\UCEnglish.txt"
     row_numbers_to_extract = [30942, 46342, 42061, 103568, 5040, 41700, 31066]
     print_specific_rows(txt_file, row_numbers_to_extract)
+    
     
     
     
